@@ -1,4 +1,4 @@
-"# Traceroute" 
+
 This program was developed on Windows. 
 You may need to disable your machine's firewall due to the tendency of the firewall to interfere with raw socket connections. You can also try configuring your firewall to allow ICMP messages.
 WARNING: If you do disable your firewall, be sure to re-enable it immediately after running or you will be open to security threats.
